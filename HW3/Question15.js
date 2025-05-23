@@ -6,3 +6,5 @@ bases. Accept b and n from the user and display the result.
 function power(b, n) {
   return Math.pow(b, n);
 }
+
+console.log(power(2, 3));
